@@ -96,6 +96,16 @@ Copy-paste Python scripts for many of these APIs:
 
 Found a free API? Open a PR! Requirements: must be free (at least free tier), have documentation, and return structured data.
 
+
+
+---
+
+## Author
+
+Built by Alex Spinov — production-grade web scrapers and data tools.
+
+- [88+ scrapers on Apify](https://apify.com/knotless_cadence) | Email: **spinov001@gmail.com**
+
 ## License
 
 MIT
