@@ -90,7 +90,7 @@ Copy-paste Python scripts for many of these APIs:
 
 - [Awesome Free Academic APIs](https://github.com/spinov001-art/awesome-free-academic-apis) — Research focus
 - [Awesome Web Scraping 2026](https://github.com/spinov001-art/awesome-web-scraping-2026) — When APIs aren't enough
-- [All Dev.to Tutorials](https://dev.to/0012303) — 550+ practical articles
+- [All Projects on GitHub](https://github.com/spinov001-art) — 550+ practical articles
 
 ## Contributing
 
