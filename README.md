@@ -20,6 +20,7 @@
 | [CoinGecko](https://www.coingecko.com/en/api) | Crypto prices, market data | Free tier | [Docs](https://www.coingecko.com/en/api/documentation) |
 | [Alpha Vantage](https://www.alphavantage.co/) | Stocks, forex, crypto | Free key | [Docs](https://www.alphavantage.co/documentation/) |
 | [FRED](https://fred.stlouisfed.org/docs/api/fred/) | Economic indicators (US) | Free key | [Docs](https://fred.stlouisfed.org/docs/api/fred/) |
+| [Eulerpool](https://eulerpool.com/financial-data-api) | Global stocks, ETFs, fundamentals, macro, crypto, FX | Free key | [Docs](https://eulerpool.com/developers) |
 
 ## Academic & Research
 
