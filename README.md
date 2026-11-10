@@ -61,6 +61,7 @@
 | [PyPI](https://warehouse.pypa.io/api-reference/) | Python package data | No | [Docs](https://warehouse.pypa.io/api-reference/) |
 | [crates.io](https://crates.io/) | Rust package data | No | [Docs](https://crates.io/) |
 | [Have I Been Pwned](https://haveibeenpwned.com/API/v3) | Password breach check | No (passwords) | [Docs](https://haveibeenpwned.com/API/v3) |
+| [Datacircle](https://datacircle.dev) | Which GTM API is best, and every plan's price | No | [Docs](https://api.datacircle.dev/v1/openapi.json) |
 
 ## Entertainment & Media
 
